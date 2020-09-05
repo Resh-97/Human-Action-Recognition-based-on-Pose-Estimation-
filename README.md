@@ -18,7 +18,7 @@ A subset of Frames Labeled in Cinema (FLIC). Training images and their annotatio
 ### Project Solutions:
 #### 1.Human Pose Estimation: 
 Pose estimation is achieved through the implementation of a CNN model. Transfer learning has been utilized for detection of body joints. VGG16 pre-trained model is used as the convolution base. The top model is customized for the problem. Training takes place in 2 groups.I was able to obtain a **R2 score of 0.92** on the test data, which seems accurate enough.
-
+![Output 1](/images/output1.png)
 #### 2.Action Recognition:
 I created two action recognition models.
  * **xy_actions_model.h5:** Model that trains on the (X,Y) coordinates of joints.
