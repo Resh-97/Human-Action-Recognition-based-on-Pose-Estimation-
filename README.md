@@ -32,6 +32,10 @@ I created two action recognition models.
 
 Therefore, for **action recognition in Video**, I have used the **first model (xy_actions_model.h5)**
 
+![Output 2](/images/output2.PNG)
+
+
 #### 3.Implementation of Action Recognition in videos using pose joints estimated by the CNN model
 The **'pose_estimation_model.h5'** has estimated Pose fairly accurately and **'xy_actions_model.h5'** has recognized the action correctly as 'Namaste'.
 
+![Output 3](/images/output3.PNG)
