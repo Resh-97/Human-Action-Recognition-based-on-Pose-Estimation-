@@ -13,7 +13,7 @@ The following are the major tasks performed:
 5. Development, error analysis and deep learning model improvement
 
 ### Dataset:  
-A subset of Frames Labeled in Cinema (FLIC). Training images and their annotations in train_joints_coords.csv and action_joints.csv consists of 7 joints - 'left  shoulder', 'left elbow', 'left wrist', 'right shoulder', 'right elbow', 'right wrist', 'left eye', 'right eye', 'nose'. The dataset is available at '/Action_dataset' and '/Pose_estimation'
+A subset of Frames Labeled in Cinema (FLIC). Training images and their annotations in train_joints_coords.csv and action_joints.csv consists of 7 joints - 'left  shoulder', 'left elbow', 'left wrist', 'right shoulder', 'right elbow', 'right wrist', 'left eye', 'right eye', 'nose'. The dataset is available at '/Action_dataset' and '/Pose_dataset'
 
 ### Project Solutions:
 #### 1.Human Pose Estimation: 
